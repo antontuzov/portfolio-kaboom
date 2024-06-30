@@ -2,12 +2,12 @@
 
 - Inspired by the many creative 3D developer portfolios, I create one that's 2D instead. This is meant as a template that you can use to build your own. It works on both desktop and mobile.
 
-![Demo App](/public/kaboom-portfolio.mov)
+![Demo App](/public/kaboom-portfolio.gif)
 
 
 
 -   🌟 Learn vite.js + kaboom.js
--   🎃 Build Responsive Design
+
 -   🚀 Deploy for FREE!
 
 # Run Locally
